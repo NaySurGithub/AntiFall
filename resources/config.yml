@@ -1,0 +1,15 @@
+# Les noms des mondes où les dégâts de chute et de vide sont désactivés
+worlds:
+  - "world"
+  - "nether"
+  - "end"
+# Si vrai, les joueurs qui tombent dans le vide seront téléportés à des coordonnées configurables
+void-tp: true
+# La coordonnée X de la téléportation
+tp-x: 0.0
+# La coordonnée Y de la téléportation
+tp-y: 64.0
+# La coordonnée Z de la téléportation
+tp-z: 0.0
+# Le nom du monde de la téléportation
+tp-world: "world"
