@@ -1,0 +1,8 @@
+---
+name: AntiFall
+version: 0.0.1
+main: Nay\AntiVoid\Main
+api: 5.10.0
+src-namespace-prefix: Nay\AntiVoid
+author: Nay
+...
